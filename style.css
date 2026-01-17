@@ -289,3 +289,96 @@ header ul li a{
 
 /* start of second Brain */
 
+#second-brain{
+    width:1600px;
+    height:840px;
+    padding:120px;
+    background-color:#ffffff;
+
+}
+
+#second-brain .container{
+    width:85%;
+    max-width:1360px;
+    height:600px;
+    display:flex;
+    gap:60px;
+    justify-content: flex-start;
+    align-items:center;
+    margin:0 auto;
+
+}
+
+#second-brain .container .knowledge{
+    width:600px;
+    height:600px;
+    border-radius:12px;
+
+}
+
+
+#second-brain .container .text-content .title{
+    font-size:16px;
+    line-height: 20px;
+    text-align:left;
+    color:#30B868;
+    text-transform: uppercase;
+    font-weight:500;
+
+
+}
+
+#second-brain .container .text-content h2{
+    margin-top:16px;
+    font-weight:bold;
+    font-size:48px;
+    text-align:left;
+    text-transform: capitalize;
+    color:#001931;
+    line-height:100%;
+
+}
+
+#second-brain .container .text-content .desc{
+    margin-top:16px;
+    font-weight:400;
+    text-align:left;
+    line-height:20px;
+    color:#627382;
+    margin-bottom:40px;
+
+
+
+}
+
+#second-brain .container .text-content ul{
+    list-style-type:none;
+    
+}
+
+#second-brain .container .text-content ul li img{
+    width:20px;
+    height:20px;
+
+
+}
+
+#second-brain .container .text-content ul li{
+    display:flex;
+    gap:6px;
+    font-weight:500;
+    font-size:16px;
+    line-height:20px;
+    text-align:left;
+    color:#001931;
+
+
+
+}
+
+
+
+
+
+
+
