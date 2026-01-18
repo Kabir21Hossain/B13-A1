@@ -50,6 +50,7 @@ header ul li a{
     font-size:16px;
     border:none;
     cursor:pointer;
+    text-transform: capitalize;
 
 
 }
